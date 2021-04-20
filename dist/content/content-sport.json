@@ -1,0 +1,31 @@
+[
+    {      
+      "id": 1,
+      "imgurl": "https://www.hidoctor.ir/wp-content/uploads/2021/02/95-compressor-copy.jpg",
+      "title": "ورزش هوازی چیست؟ / با ورزش های هوازی قلب خود را تقویت کنید",
+      "description":"صرف نظر از سن، وزن و توانایی فیزیکی ورزش هوازی گزینه مفید برای شما محسوب می شود. ورزش هوازی منظم مانند پیاده …",
+      "body": "./texts/text1.txt"
+    },
+    {      
+      "id": 2,
+      "imgurl": "https://www.hidoctor.ir/wp-content/uploads/2021/02/GettyImages-1094095844-1-copy.jpg",
+      "title": "آیا مصرف پروتئین بعد از ورزش مهم است؟",
+      "description":"هر فردی که به دنیای تناسب اندام علاقه مند باشد به طور حتم درباره سوخت گیری بدن با پروتئین بعد از ورزش مطالب فراوانی شنیده است. …",
+      "body": "./texts/text2.txt"
+    },
+    {      
+      "id": 3,
+      "imgurl": "https://www.hidoctor.ir/wp-content/uploads/2020/12/food-cost-calculation-for-a-restaurant-1080x675.jpg",
+      "title": "3 حرکت ساده ورزشی برای عملکرد بهتر قلب و ریه ها",
+      "description":"در روزهایی که ویروس کرونا زندگی همه انسان ها را مختل کرده و مشکلات فراوانی را برای همه مردم در کشورهای مختلف جهان به وجود …",
+      "body": "./texts/text3.txt"
+    },
+    {      
+      "id": 4,
+      "imgurl": "https://www.hidoctor.ir/wp-content/uploads/2020/12/break-workout-copy.jpg",
+      "title": "مدت زمان ایده آل ورزش برای طول عمر بیشتر",
+      "description":"ویروس کرونا زندگی همه ما را در ابعاد مختلفی تغییر داده و سال سختی را رقم زده است. با تغییر وضعیت زندگی …",
+      "body": "./texts/text3.txt"
+    }
+    
+  ]
