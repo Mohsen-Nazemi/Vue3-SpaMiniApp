@@ -1,4 +1,5 @@
 # spa-mini-project
+![2](https://user-images.githubusercontent.com/81500583/121065467-09710100-c7de-11eb-99d9-32d995b534f1.jpg)
 
 ## Project setup
 ```
